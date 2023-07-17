@@ -1,0 +1,6 @@
+pandas
+beautifulsoup4
+webdriver-manager
+selenium
+nltk
+openpyxl
